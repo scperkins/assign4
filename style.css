@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+}
+
+
+/* nav section */
+nav ol {
+	background-color: #66bbff;
+	padding-left: 5.33333333%;  /* 48px / 900px */
+}
+nav ol li{
+	display: inline;
+	background-color: #66bbff;
+	list-style-type: none;
+	padding-right: 3em;
+}
