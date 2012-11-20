@@ -6,16 +6,23 @@ h1 {
 }
 
 /* nav section */
+nav table td {
+	font-family: helvetica;
+	text-align: center;
+	border-right: 1px solid black;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+
 nav ul {
 	margin-top: 0px;
-	background-color: #66bbff;
-	padding-left: 5.33333333%;  /* 48px / 900px */
+	padding-left: 0px;  /* 48px / 900px */
 	margin-bottom: 4px;
 }
 nav ul li{
 	font-family: helvetica;
 	display: inline;
-	background-color: #66bbff;
 	list-style-type: none;
 	padding-right: 3em;
 }
@@ -37,3 +44,8 @@ div img .mike {
 	margin: 0;
 	padding: 0;
 }
+
+.sideMenu li {
+	font-family: 
+}
+
