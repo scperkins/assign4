@@ -1,16 +1,39 @@
-body {
-	font-family: sans-serif;
-}
 
+h1 {
+	font-family: helvetica;
+	color: black;
+	margin-bottom: 0px;
+}
 
 /* nav section */
-nav ol {
+nav ul {
+	margin-top: 0px;
 	background-color: #66bbff;
 	padding-left: 5.33333333%;  /* 48px / 900px */
+	margin-bottom: 4px;
 }
-nav ol li{
+nav ul li{
+	font-family: helvetica;
 	display: inline;
 	background-color: #66bbff;
 	list-style-type: none;
 	padding-right: 3em;
+}
+
+div img .mike {
+	float: left;
+	margin-bottom: 0px;
+	border-style: solid;
+	border-width: 5em;
+	border-color: black;
+}
+
+/* side menu section */
+
+.sideMenu {
+	width: 100px;
+	background-color: #777777;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
