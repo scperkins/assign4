@@ -13,7 +13,8 @@
 
 		<h3>Skills</h3>
 			<p>Manufacturing / Engineering Process and Control, CAD, CAD/CAM, Design, Estimating, Building, Woodworking, Metalworking, Mechanics, Project Management, Production Cost Analysis, Computer Networking, Linux, Microsoft, AutoCAD, Architectural Woodworking, Construction, Electrical and Electronics Processes and Control, CNC, Customer Relations and Corporate Management.</p>
-
+		<h2>Education</h2>
+			<h3><a href="http:www.awinet.org">Architectural Woodwork Institute</a> - Reston, VA</h3>
 </div>
 <div>
 <? include "footer.php" ?>
