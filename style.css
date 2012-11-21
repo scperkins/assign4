@@ -19,6 +19,12 @@ h1 {
 	margin-bottom: 0px;
 }
 
+h2{
+	font-family: helvetica;
+	font-style: bold;
+	font-size: medium;
+}
+
 /* nav section */
 
 nav table {
